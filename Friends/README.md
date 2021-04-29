@@ -18,5 +18,5 @@
 #### Resources
 - [Key](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/API%20Usage/GetAKey.md)
 - [UUID](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/API%20Usage/UUID.md)
-- [Friend Record](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/Friends/records.md)
+- [Friend Record](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/Friends/Records.md)
 - [Error Causes](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/Friends/Errors.md)
