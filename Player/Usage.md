@@ -1,5 +1,5 @@
 # Usage
-`https://api.hypixel.net/player?key=KEY?uuid=UUID`
+`https://api.hypixel.net/player?key=KEY&uuid=UUID`
 
 |Parameter|Example|More Info|Description|
 |:-|:-|:-|:-|
@@ -7,7 +7,7 @@
 |`UUID`|`c7dd703c80274459b8854db90cd13edd`|[Info](https://github.com/Mysterium422/HypixelAPIWiki/tree/main/API%20Usage/UUID.md)|The Player's UUID|
 
 ## Alternate Usage
-`https://api.hypixel.net/player?key=KEY?name=NAME`
+`https://api.hypixel.net/player?key=KEY&name=NAME`
 
 |Parameter|Example|More Info|Description|
 |:-|:-|:-|:-|

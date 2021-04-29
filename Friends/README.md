@@ -1,5 +1,5 @@
 # Usage
-`https://api.hypixel.net/friends?key=KEY?uuid=UUID`
+`https://api.hypixel.net/friends?key=KEY&uuid=UUID`
 
 |Parameter|Example|More Info|Description|
 |:-|:-|:-|:-|
