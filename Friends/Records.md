@@ -9,10 +9,10 @@ Format: JSON Object
 
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
-|`__id`|`Mongo DB ID`|String|A unique Mongo ID|
-|`uuidSender`|`Sender UUID`|String|Friend request sender's UUID|
-|`uuidReceiver`|`Receiver UUID`|String|Friend request receiver's UUID|
-|`started`|`Date Started`|Unix Timestamp|Friendship's start date|
+|`__id`|Mongo DB ID|String|A unique Mongo ID|
+|`uuidSender`|Sender UUID|String|Friend request sender's UUID|
+|`uuidReceiver`|Receiver UUID|String|Friend request receiver's UUID|
+|`started`|Date Started|Unix Timestamp|Friendship's start date|
 
 #### Resources
 - [Mongo ID](https://www.navicat.com/en/company/aboutus/blog/1010-all-about-mongodb-s-_id-field)
