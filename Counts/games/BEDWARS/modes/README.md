@@ -1,4 +1,4 @@
-# Bedwars player counts
+# Bedwars player counts by mode
 Path: `https://api.hypixel.net/counts` --> `result.games.BEDWARS.modes`
 
 ## Data

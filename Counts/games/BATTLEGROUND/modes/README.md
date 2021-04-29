@@ -1,4 +1,4 @@
-# Warlords player counts
+# Warlords player counts by mode
 Path: `https://api.hypixel.net/counts` --> `result.games.BATTLEGROUND.modes`
 
 ## Data

@@ -1,4 +1,4 @@
-# Build Battle player counts
+# Build Battle player counts by mode
 Path: `https://api.hypixel.net/counts` --> `result.games.BUILD_BATTLE.modes`
 
 ## Data

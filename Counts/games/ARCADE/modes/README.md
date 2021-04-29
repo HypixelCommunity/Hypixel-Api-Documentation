@@ -1,4 +1,4 @@
-# Arcade player counts
+# Arcade player counts by mode
 Path: `https://api.hypixel.net/counts` --> `result.games.ARCADE.modes`
 
 ## Data
