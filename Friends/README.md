@@ -9,14 +9,14 @@
 ## Data
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
-|`cause`|Error Cause|String|The [error](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/Friends/Errors.md) in a failed api request|
-|`records`|Records|Array|Array of all [Friend Records](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/Friends/Records.md)|
-|`records[X]`|Record|Object|An individual [Friend Record](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/Friends/Records.md)|
+|`cause`|Error Cause|String|The [error](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/Friends/Errors.md) in a failed api request|
+|`records`|Records|Array|Array of all [Friend Records](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/Friends/Records.md)|
+|`records[X]`|Record|Object|An individual [Friend Record](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/Friends/Records.md)|
 |`success`|Success|Boolean|Whether the api query was successful or not| 
 |`uuid`|UUID|String|The queried player's UUID|
 
 #### Resources
-- [Key](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/API%20Usage/GetAKey.md)
-- [UUID](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/API%20Usage/UUID.md)
-- [Friend Record](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/Friends/Records.md)
-- [Error Causes](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/Friends/Errors.md)
+- [Key](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/API%20Usage/GetAKey.md)
+- [UUID](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/API%20Usage/UUID.md)
+- [Friend Record](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/Friends/Records.md)
+- [Error Causes](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/Friends/Errors.md)

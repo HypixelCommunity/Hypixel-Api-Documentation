@@ -7,4 +7,4 @@ Path: `https://api.hypixel.net/punishmentstats` --> `result.cause`
 |`Invalid API Key`|`Your API Key is not valid`|
 
 #### Resources
-- [Key](https://github.com/Mysterium422/HypixelAPIWiki/tree/main/API%20Usage/GetAKey.md)
+- [Key](https://github.com/Mysterium422/Hypixel-Api-Docs/tree/main/API%20Usage/GetAKey.md)

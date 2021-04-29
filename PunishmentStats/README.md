@@ -20,5 +20,5 @@
 
 
 #### Resources
-- [Key](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/API%20Usage/GetAKey.md)
-- [Error Causes](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/PunishmentStats/Errors.md)
+- [Key](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/API%20Usage/GetAKey.md)
+- [Error Causes](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/PunishmentStats/Errors.md)
