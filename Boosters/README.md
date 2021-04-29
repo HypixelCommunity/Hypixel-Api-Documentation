@@ -1,9 +1,9 @@
 # Usage
 `https://api.hypixel.net/punishmentstats?key=KEY`
 
-|Parameter|Example|More Info|Description|
-|:-|:-|:-|:-|
-|`KEY`|`37a52f7d-1123-4785-9354-323f777fe341`|[Info](https://github.com/Mysterium422/HypixelAPIWiki/tree/main/API%20Usage/GetAKey.md)|Your Personal API Key| 
+|Parameter|Example|Description|
+|:-|:-|:-|
+|`KEY`|`37a52f7d-1123-4785-9354-323f777fe341`|Your Personal API Key| 
 
 ## Data
 |Key|Name|Data Type|Description|
@@ -17,5 +17,6 @@
 |`cause`|`Error Cause`|String|The error in a failed api request|
 
 #### Resources
-- [Key](https://github.com/Mysterium422/HypixelAPIWiki/tree/main/API%20Usage/GetAKey.md)
-- [UUID](https://github.com/Mysterium422/HypixelAPIWiki/tree/main/API%20Usage/UUID.md)
+- [Key](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/API%20Usage/GetAKey.md)
+- [UUID](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/API%20Usage/UUID.md)
+- [Error Causes](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/Boosters/Errors.md)

@@ -1,5 +1,5 @@
 # Possible Errors
-Path: `https://api.hypixel.net/friends` --> `result.cause`
+Path: `https://api.hypixel.net/punishmentstats` --> `result.cause`
 
 
 |Error|Issue|
