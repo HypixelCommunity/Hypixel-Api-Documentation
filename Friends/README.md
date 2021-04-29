@@ -9,11 +9,11 @@
 ## Data
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
-|`cause`|`Error Cause`|String|The error in a failed api request|
-|`records`|`Records`|Array|Array of all Friend Records|
-|`records[X]`|`Record`|Object|An individual Friend Record|
-|`success`|`Success`|Boolean|Whether the api query was successful or not| 
-|`uuid`|`UUID`|String|The queried player's UUID|
+|`cause`|Error Cause|String|The error in a failed api request|
+|`records`|Records|Array|Array of all Friend Records|
+|`records[X]`|Record|Object|An individual Friend Record|
+|`success`|Success|Boolean|Whether the api query was successful or not| 
+|`uuid`|UUID|String|The queried player's UUID|
 
 #### Resources
 - [Key](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/API%20Usage/GetAKey.md)
