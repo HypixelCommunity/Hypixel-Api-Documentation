@@ -8,13 +8,16 @@
 ## Data
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
+|`cause`|`Error Cause`|String|The error in a failed api request|
+|`staff_rollingDaily`|`Daily Staff Bans`|Integer|Staff bans in the past 24 hours|
+|`staff_total`|`Total Staff Bans`|Integer|Lifetime staff bans|
 |`success`|`Success`|Boolean|Whether the api query was successful or not|
 |`watchdog_lastMinute`|`Minutely Watchdog Bans`|Integer|Watchdog bans in the past minute|
-|`staff_rollingDaily`|`Daily Staff Bans`|Integer|Staff bans in the past 24 hours|
-|`watchdog_total`|`Total Watchdog Bans`|Integer|Lifetime watchdog bans|
 |`watchdog_rollingDaily`|`Daily Watchdog Bans`|Integer|Watchdog bans in the past 24 hours|
-|`staff_total`|`Total Staff Bans`|Integer|Lifetime staff bans|
-|`cause`|`Error Cause`|String|The error in a failed api request|
+|`watchdog_total`|`Total Watchdog Bans`|Integer|Lifetime watchdog bans|
+
+
+
 
 #### Resources
 - [Key](https://github.com/Mysterium422/HypixelAPIWiki/blob/main/API%20Usage/GetAKey.md)
