@@ -6,7 +6,7 @@ Format: An Object of game containers
 
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
-|`ARCADE`|Arcade|Object|Container for [Arcade counts](https://github.com/Mysterium422/Hypixel-Api-Docs/tree/main/Counts/games/ARCADE)|
+|`ARCADE`|Arcade|Object|Container for [Arcade counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/ARCADE)|
 |`BATTLEGROUND`|Warlords|Object|Container for [Warlord counts]()|
 |`BEDWARS`|Bedwars|Object|Container for [Bedwars counts]()|
 |`BUILD_BATTLE`|Build Battle|Object|Container for [Build Battle counts]()|

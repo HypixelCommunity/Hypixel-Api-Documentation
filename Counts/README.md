@@ -8,11 +8,11 @@
 ## Data
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
-|`cause`|Error Cause|String|The [error](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/Counts/Errors.md) in a failed api request|
-|`games`|Games|Object|Container for all of the [playercounts by game](https://github.com/Mysterium422/Hypixel-Api-Docs/tree/main/Counts/games)|
+|`cause`|Error Cause|String|The [error](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/blob/main/Counts/Errors.md) in a failed api request|
+|`games`|Games|Object|Container for all of the [playercounts by game](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games)|
 |`playercount`|Total Player Count|Integer|Total current Hypixel player count|
 |`success`|`Success`|Boolean|Whether the api query was successful or not|
 
 #### Resources
-- [Key](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/API%20Usage/GetAKey.md)
-- [Error Causes](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/Counts/Errors.md)
+- [Key](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/blob/main/API%20Usage/GetAKey.md)
+- [Error Causes](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/blob/main/Counts/Errors.md)

@@ -11,5 +11,5 @@ Path: `https://api.hypixel.net/friends` --> `result.cause`
 If the records key returns an empty array, the UUID does not exist or has no friends
 
 #### Resources
-- [Key](https://github.com/Mysterium422/Hypixel-Api-Docs/tree/main/API%20Usage/GetAKey.md)
-- [UUID](https://github.com/Mysterium422/Hypixel-Api-Docs/tree/main/API%20Usage/UUID.md)
+- [Key](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/API%20Usage/GetAKey.md)
+- [UUID](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/API%20Usage/UUID.md)
