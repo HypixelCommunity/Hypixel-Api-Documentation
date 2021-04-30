@@ -6,7 +6,7 @@ Format: Object
 
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
-|`mega_doubles`|Mega Doubles Players|Integer|Total # of online Mega Doubles Players [(?)](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/issues/5)|
+|`mega_doubles`|Mega Doubles Players|Integer|Total # of online Mega Doubles Players [(?)](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/issues/6)|
 |`mega_normal`|Mega Solo Players|Integer|Total # of online Mega Solo Players|
 |`ranked_normal`|Ranked Players|Integer|Total # of online Ranked Players|
 |`solo_normal`|Solo Players|Integer|Total # of online Solo Players|

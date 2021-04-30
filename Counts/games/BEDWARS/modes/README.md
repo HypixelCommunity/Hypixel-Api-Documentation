@@ -6,7 +6,7 @@ Format: Object
 
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
-|`BEDWARS_CASTLE`|Castle Players|Integer|Total # of online Castle Players|
+|`BEDWARS_CASTLE`|Castle Players|Integer|Total # of online Castle Players [(?)](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/issues/6)|
 |`BEDWARS_EIGHT_ONE`|Solo Players|Integer|Total # of online Solo Players|
 |`BEDWARS_EIGHT_TWO`|Duos Players|Integer|Total # of online Duos Players|
 |`BEDWARS_EIGHT_TWO_ARMED`|Armed Duos Players|Integer|Total # of online Armed Duos Players|
