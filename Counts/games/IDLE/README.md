@@ -6,7 +6,7 @@ Format: Object
 
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
-|`players`|Players|Integer|Total # of online Idle [(??)](https://github.com/Mysterium422/Hypixel-Api-Docs/blob/main/NeedsHelp.md) Players|
+|`players`|Players|Integer|Total # of online Idle [(??)](hhttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/issues/1)) Players|
 
 #### Resources
 - None

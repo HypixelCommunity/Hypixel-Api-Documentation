@@ -1,4 +1,4 @@
-# Pit player counts by mode
+# Prototype player counts by mode
 Path: `https://api.hypixel.net/counts` --> `result.games.PROTOTYPE.modes`
 
 ## Data

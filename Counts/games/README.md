@@ -12,7 +12,7 @@ Format: An Object of game containers
 |`BUILD_BATTLE`|Build Battle|Object|Container for [Build Battle counts]()|
 |`DUELS`|Duels|Object|Container for [Duels counts]()|
 |`HOUSING`|Housing|Object|Container for [Housing counts]()|
-|`IDLE`|Idle|Object|Usage unknown. [Idle counts?]()|
+|`IDLE`|Idle|Object|[Usage unknown.](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/issues/1)) [Idle counts]()|
 |`LEGACY`|Classic Games|Object|Container for [Classic counts]()|
 |`LIMBO`|Limbo|Object|Container for [Limbo counts]()|
 |`MAIN_LOBBY`|Main Lobby|Object|Container for [Main lobby counts]()|
@@ -20,7 +20,7 @@ Format: An Object of game containers
 |`MURDER_MYSTERY`|Murder Mystery|Object|Container for [Murder Mystery counts]()|
 |`PIT`|Pit|Object|Container for [Pit counts]()|
 |`PROTOTYPE`|Prototype|Object|Container for [Prototype counts]()|
-|`QUEUE`|Prototype|Object|Usage unknown. [Queue counts?]()|
+|`QUEUE`|Prototype|Object|[Usage unknown.](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/issues/1)) [Queue counts?]()|
 |`REPLAY`|Replay|Object|Container for [Replay (Atlas etc) counts]()|
 |`SKYBLOCK`|Skyblock|Object|Container for [Skyblock counts]()|
 |`SMP`|SMP|Object|Container for [SMP counts]()|
