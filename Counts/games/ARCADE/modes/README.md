@@ -6,7 +6,6 @@ Format: Object
 
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
-
 |`DAYONE`|Blocking Dead Players|Integer|Total # of online Blocking Dead Players|
 |`DEFENDER`|Creeper Attack Players|Integer|Total # of online Creeper Attack Players|
 |`DRAGONWARS2`|Dragon Wars Players|Integer|Total # of Dragon Wars Players|
