@@ -6,6 +6,7 @@ Format: Object
 
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
+|`BEDWARS_CASTLE`|Castle Players|Integer|Total # of online Castle Players|
 |`BEDWARS_EIGHT_ONE`|Solo Players|Integer|Total # of online Solo Players|
 |`BEDWARS_EIGHT_TWO`|Duos Players|Integer|Total # of online Duos Players|
 |`BEDWARS_EIGHT_TWO_ARMED`|Armed Duos Players|Integer|Total # of online Armed Duos Players|
@@ -22,6 +23,7 @@ Format: Object
 |`BEDWARS_FOUR_THREE`|3v3v3v3 Players|Integer|Total # of online 3v3v3v3 Players|
 |`BEDWARS_PRACTICE`|Practice Players|Integer|Total # of online Practice Players|
 |`BEDWARS_TWO_FOUR`|4v4 Players|Integer|Total # of online 4v4 Players|
+
 
 #### Resources
 - None
