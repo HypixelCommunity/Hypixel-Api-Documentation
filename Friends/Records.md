@@ -17,5 +17,4 @@ Format: JSON Object
 #### Resources
 - [Mongo ID](https://www.navicat.com/en/company/aboutus/blog/1010-all-about-mongodb-s-_id-field)
 - [UUID](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/blob/main/API%20Usage/UUID.md)
-https://github.com/HypixelCommunity/Hypixel-Api-Documentation/blob/main/API%20Usage/UUID.md
 - [Unix Timestamp](https://www.unixtimestamp.com)
