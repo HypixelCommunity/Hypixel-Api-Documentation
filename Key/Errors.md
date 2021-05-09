@@ -1,5 +1,5 @@
 # Possible Errors
-Path: `https://api.hypixel.net/counts` --> `result.cause`
+Path: `https://api.hypixel.net/key` --> `result.cause`
 
 
 |Error|Issue|
