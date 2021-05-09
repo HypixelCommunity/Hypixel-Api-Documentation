@@ -1,5 +1,5 @@
 # Usage
-`https://api.hypixel.net/key?key=KEY`
+`https://api.hypixel.net/leaderboards?key=KEY`
 
 |Parameter|Example|Description|
 |:-|:-|:-|
@@ -9,7 +9,7 @@
 |Key|Name|Data Type|Description|
 |:-|:-|:-|:-|
 |`cause`|Error Cause|String|The [error](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/blob/main/Key/Errors.md) in a failed api request|
-|`record`|Games|Object|Container for all of the [key info](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Key/record)|
+|`record`|Record|Object|Container for all of the [key info](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Key/record)|
 |`success`|Success|Boolean|Whether the api query was successful or not|
 
 #### Resources
