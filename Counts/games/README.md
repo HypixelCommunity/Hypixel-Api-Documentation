@@ -21,16 +21,16 @@ Format: An Object of game containers
 |`PIT`|Pit|Object|Container for [Pit counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/PIT)|
 |`PROTOTYPE`|Prototype|Object|Container for [Prototype counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/PROTOTYPE)|
 |`QUEUE`|Prototype|Object|[Usage unknown.](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/issues/1) [Queue counts?](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/QUEUE)|
-|`REPLAY`|Replay|Object|Container for [Replay (Atlas etc) counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/REPLAY)|
-|`SKYBLOCK`|Skyblock|Object|Container for [Skyblock counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/SKYBLOCK)|
-|`SMP`|SMP|Object|Container for [SMP counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/gameS/SMP)|
-|`SPEED_UHC`|Speed UHC|Object|Container for [Speed UHC counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/SPEED_UHC)|
-|`SUPER_SMASH`|Smash Heroes|Object|Container for [Smash Heroes counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/SUPER_SMASH)|
-|`SURVIVAL_GAMES`|Survival Games|Object|Container for [Survival Games counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/SURVIVAL_GAMES)|
-|`TNTGAMES`|TNT Games|Object|Container for [TNT Games counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/TNTGAMES)|
-|`TOURNAMENT_LOBBY`|Tournament Lobby|Object|Container for [Tournament Lobby counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/TOURNAMENT_LOBBY)|
-|`UHC`|UHC Champions|Object|Container for [UHC counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/UHC)|
-|`WALLS3`|Mega Walls|Object|Container for [Mega Walls counts](ttps://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/WALLS3)|
+|`REPLAY`|Replay|Object|Container for [Replay (Atlas etc) counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/REPLAY)|
+|`SKYBLOCK`|Skyblock|Object|Container for [Skyblock counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/SKYBLOCK)|
+|`SMP`|SMP|Object|Container for [SMP counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/gameS/SMP)|
+|`SPEED_UHC`|Speed UHC|Object|Container for [Speed UHC counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/SPEED_UHC)|
+|`SUPER_SMASH`|Smash Heroes|Object|Container for [Smash Heroes counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/SUPER_SMASH)|
+|`SURVIVAL_GAMES`|Survival Games|Object|Container for [Survival Games counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/SURVIVAL_GAMES)|
+|`TNTGAMES`|TNT Games|Object|Container for [TNT Games counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/TNTGAMES)|
+|`TOURNAMENT_LOBBY`|Tournament Lobby|Object|Container for [Tournament Lobby counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/TOURNAMENT_LOBBY)|
+|`UHC`|UHC Champions|Object|Container for [UHC counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/UHC)|
+|`WALLS3`|Mega Walls|Object|Container for [Mega Walls counts](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/Counts/games/WALLS3)|
 
 #### Resources
 - None
