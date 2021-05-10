@@ -1,14 +1,12 @@
 # Possible Errors
-Path: `https://api.hypixel.net/friends` --> `result.cause`
+Path: `https://api.hypixel.net/findguild` --> `result.cause`
 
 
 |Error|Issue|
 |:-|:-|
 |`Invalid API Key`|Your API Key is not valid|
-|`Missing one or more fields [uuid]`|You have not specificied a UUID|
+|`Missing one or more fields [byUuid]`|You have not specificied a UUID|
 |`Malformed UUID`|The UUID specified is either too short or too long|
-
-If the records key returns an empty array, the UUID does not exist or has no friends
 
 #### Resources
 - [Key](https://github.com/HypixelCommunity/Hypixel-Api-Documentation/tree/main/API%20Usage/GetAKey.md)
